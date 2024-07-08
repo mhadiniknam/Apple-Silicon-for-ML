@@ -10,3 +10,5 @@ Just to remind you need to have torch and TF specified for MacOs
  ```
  pip install -r requirement.txt
  ```
+### Using CONDA 
+You can Use conda if you intend to manage multilanguage platform like python and (C/C++) libraries but if you want to use python solely just use venv 
